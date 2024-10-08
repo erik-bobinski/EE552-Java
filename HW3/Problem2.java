@@ -37,5 +37,7 @@ public class Problem2 {
         }
         System.out.println("The result of the Taylor Series Approximation of e^x is: " + sum + ".");
         System.out.print("============================================================================================================");
+
+        input.close();
     }
 }
